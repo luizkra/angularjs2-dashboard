@@ -1,0 +1,39 @@
+{
+	"mensajes":[
+		{
+			"IdMsj" : 1,
+			"Texto" : "Hola que tal",
+			"Iduser" : 1,
+			"Fech" : "2017-09-07",
+			"Etiqueta" : "Visto"
+		},
+		{
+			"IdMsj" : 2,
+			"Texto" : "Hola que tal",
+			"Iduser" : 1,
+			"Fech" : "2017-09-07",
+			"Etiqueta" : "Nuevo"
+		},
+		{
+			"IdMsj" : 3,
+			"Texto" : "Hola que tal",
+			"Iduser" : 3,
+			"Fech" : "2017-09-07",
+			"Etiqueta" : "Nuevo"
+		},
+		{
+			"IdMsj" : 4,
+			"Texto" : "Hola que tal",
+			"Iduser" : 1,
+			"Fech" : "2017-09-08",
+			"Etiqueta" : "Visto"
+		},
+		{
+			"IdMsj" : 5,
+			"Texto" : "No llega mi hotdog",
+			"Iduser" : 5,
+			"Fech" : "2017-09-08",
+			"Etiqueta" : "Nuevo"
+		}
+	]
+}

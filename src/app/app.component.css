@@ -1,0 +1,32 @@
+.content-parent {
+	background-color: rgb(243, 252, 255);
+}
+.content-menu {
+	background-color: #629891;
+	height: 100%;
+	position: absolute;
+}
+
+.left_ {
+	float: left;
+}
+.right_ {
+	float: right;
+}
+.container-left{
+	margin-left: 15px;
+    margin-right: 15px;    
+    padding-right: 4%;
+    padding-left: 4%;
+}
+.box{
+	border-color: #8e8383;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 9px;    
+    margin-bottom: 5%;
+    padding-top: 3%;
+}
+.header-msj {
+	    padding: 0;
+}

@@ -1,0 +1,136 @@
+{
+	"viajes":[
+		{
+			"IdViaje" : 1,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.644424, -103.372366",
+			"Iduser" : 1,
+			"IdCliente" : 3, 
+			"FechIni" : "2017",
+			"Estatus" : "Activo",
+			"Zona" : 1
+	 	},
+		{
+			"IdViaje" : 2,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.693571, -103.348548",
+			"Iduser" : 5,
+			"IdCliente" : 1, 
+			"FechIni" : "2017",
+			"Estatus" : "Activo",
+			"Zona" : 1
+	 	},
+		{
+			"IdViaje" : 3,
+			"Inicio" : "20.655620, -103.299529",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.323576, -103.868744",
+			"Iduser" : 5,
+			"IdCliente" : 5, 
+			"FechIni" : "2010",
+			"Estatus" : "Finalizado",
+			"Zona" : 1
+	 	},
+		{
+			"IdViaje" : 4,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.059391, -102.917327",
+			"Iduser" : 2,
+			"IdCliente" : 4, 
+			"FechIni" : "2010",
+			"Estatus" : "Finalizado",
+			"Zona" : 2
+	 	},
+		{
+			"IdViaje" : 5,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.695418, -103.330953",
+			"Iduser" : 3,
+			"IdCliente" : 4, 
+			"FechIni" : "2015",
+			"Estatus" : "Pendiente",
+			"Zona" : 2
+	 	},
+		{
+			"IdViaje" : 6,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.690801, -103.313873",
+			"Iduser" : 2,
+			"IdCliente" : 4, 
+			"FechIni" : "2015",
+			"Estatus" : "Pendiente",
+			"Zona" : 2
+	 	},
+		{
+			"IdViaje" : 7,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.17900, -19.78998",
+			"ActualPos" : "20.144424, -103.372366",
+			"Iduser" : 1,
+			"IdCliente" : 3, 
+			"FechIni" : "2017",
+			"Estatus" : "Activo",
+			"Zona" : 2
+	 	},
+		{
+			"IdViaje" : 8,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.493571, -103.348548",
+			"Iduser" : 5,
+			"IdCliente" : 1, 
+			"FechIni" : "2017",
+			"Estatus" : "Activo",
+			"Zona" : 1
+	 	},
+		{
+			"IdViaje" : 9,
+			"Inicio" : "20.655620, -103.299529",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.323576, -103.868744",
+			"Iduser" : 5,
+			"IdCliente" : 5, 
+			"FechIni" : "2016",
+			"Estatus" : "Finalizado",
+			"Zona" : 2
+	 	},
+		{
+			"IdViaje" : 10,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.959391, -102.917327",
+			"Iduser" : 2,
+			"IdCliente" : 4, 
+			"FechIni" : "2016",
+			"Estatus" : "Finalizado",
+			"Zona" : 2
+	 	},
+		{
+			"IdViaje" : 11,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.795418, -103.330953",
+			"Iduser" : 3,
+			"IdCliente" : 4, 
+			"FechIni" : "2017",
+			"Estatus" : "Pendiente",
+			"Zona" : 1
+	 	},
+		{
+			"IdViaje" : 12,
+			"Inicio" : "19.66378, -17.898808",
+			"Destino" : "19.87900, -19.78998",
+			"ActualPos" : "20.590801, -103.313873",
+			"Iduser" : 2,
+			"IdCliente" : 4, 
+			"FechIni" : "2017",
+			"Estatus" : "Pendiente",
+			"Zona" : 2
+	 	}
+	]
+}

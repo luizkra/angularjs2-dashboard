@@ -1,0 +1,46 @@
+{ 
+	"mensajeros":[
+		{
+			"Iduser" : 1,
+			"Nombre" : "Jose Perez",
+			"IdViaje" : 1,
+			"FechIni" : "2017-09-07",
+			"Estatus": "InActivo"
+		},
+		{
+			"Iduser" : 2,
+			"Nombre" : "Luis C.",
+			"IdViaje" : 2,
+			"FechIni" : "2017-09-07",
+			"Estatus": "Activo"
+		},
+		{
+			"Iduser" : 3,
+			"Nombre" : "Sebastian Perez",
+			"IdViaje" : 5,
+			"FechIni" : "2017-09-07",
+			"Estatus": "InActivo"
+		},
+		{
+			"Iduser" : 4,
+			"Nombre" : "Fernando",
+			"IdViaje" : 1,
+			"FechIni" : "2017-09-08",
+			"Estatus": "Activo"
+		},
+		{
+			"Iduser" : 5,
+			"Nombre" : "Baltazar",
+			"IdViaje" : 3,
+			"FechIni" : "2017-09-07",
+			"Estatus": "Activo"
+		},
+		{
+			"Iduser" : 6,
+			"Nombre" : "AGustavo",
+			"IdViaje" : 4,
+			"FechIni" : "2017-09-08",
+			"Estatus": "Activo"
+		}
+	]
+}

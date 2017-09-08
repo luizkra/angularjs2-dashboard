@@ -1,0 +1,46 @@
+{
+	"cliente":[
+		{
+			"IdCliente" : 1,
+			"Nombre" : "Jose Perez",
+			"Pedido" : "Marco d puerta",
+			"FechIni" : "2017-09-07",
+			"Etiqueta" : "Nuevo"
+		},
+		{
+			"IdCliente" : 2,
+			"Nombre" : "Carlos C.",
+			"Pedido" : "Pizza",
+			"FechIni" : "2017-09-07",
+			"Etiqueta" : "Normal"
+		},
+		{
+			"IdCliente" : 3,
+			"Nombre" : "Miguel Perez",
+			"Pedido" : "Bulto",
+			"FechIni" : "2017-09-07",
+			"Etiqueta" : "Nuevo"
+		},
+		{
+			"IdCliente" : 4,
+			"Nombre" : "Mariano",
+			"Pedido" : "Hot-dog",
+			"FechIni" : "2017-09-08",
+			"Etiqueta" : "Normal"
+		},
+		{
+			"IdCliente" : 5,
+			"Nombre" : "Saul de la Luz",
+			"Pedido" : "Celular",
+			"FechIni" : "2017-09-07",
+			"Etiqueta" : "Nuevo"
+		},
+		{
+			"IdCliente" : 6,
+			"Nombre" : "Agustin P.",
+			"Pedido" : "Marco",
+			"FechIni" : "2017-09-08",
+			"Etiqueta" : "Normal"
+		}
+	]
+}

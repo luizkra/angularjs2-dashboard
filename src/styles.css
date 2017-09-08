@@ -1,1 +1,50 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+	background-color: rgba(87, 132, 130, 0.79);
+}
+.thumbnail-image{
+	width: 50px;
+}
+.msj-user{
+	background-color: #d3d3ff;
+    border-radius: 7px;
+    padding: 3px;
+    width: 100%;
+    margin-bottom: 8px;
+}
+.message-box{
+	overflow: auto;
+    height: 25em;
+}
+.name-user{
+	text-align: left;
+    font-weight: 700;
+}
+.menu{
+	list-style: none;
+    float: left;
+    padding-left: 0;
+    width: 100%;
+    text-align: left;
+}
+.menu li{
+	    padding: 7px 0px 7px 0px;
+}
+.menu li a{
+	color: #d9e2ea;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu li a:hover,.menu li a:focus{
+	color: #105088;
+    text-decoration: none;
+    font-size: 18px;
+}
+.new-msj{
+	width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.noLeido{
+ background-color: #a0e0ff;
+}
